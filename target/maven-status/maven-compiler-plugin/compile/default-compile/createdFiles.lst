@@ -1,0 +1,15 @@
+com\orange\web\DeleteByIdServlet.class
+com\orange\pojo\Card.class
+com\orange\web\SelectAllServlet.class
+com\orange\pojo\User.class
+com\orange\util\SqlSessionFactoryUtils.class
+com\orange\web\LoginServlet.class
+com\orange\service\CardService.class
+com\orange\web\AddServlet.class
+com\orange\mapper\UserMapper.class
+com\orange\web\UpdateServlet.class
+com\orange\web\RegisterServlet.class
+com\orange\mapper\CardMapper.class
+com\orange\web\SelectBycnameServlet.class
+com\orange\web\Add1Servlet.class
+com\orange\web\SelectByIdServlet.class
